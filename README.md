@@ -7,6 +7,6 @@ Links and descriptions of shiny apps I've created
 
 * [Directional Statistics](https://maximiliano-01.shinyapps.io/directional/): Used to analyze directional data (strike, dip, lineations, etc) with some basic plots and one and two sample statistics.
 
-* [Geotechnical Engineering / Soil Mechancs](https://maximiliano-01.shinyapps.io/soil_mechanics/): Mostly for teaching concepts in soil mechanics (bearing capacity and induced stress)
+* [Geotechnical Engineering / Soil Mechancs](https://maximiliano-01.shinyapps.io/soil_mechanics/): Mostly for teaching concepts in soil mechanics (bearing capacity and induced stress).
 
-* [Geostatistics](https://maximiliano-01.shinyapps.io/geostatistics/): Basic workflow for a geostatistical analysis
+* [Geostatistics](https://maximiliano-01.shinyapps.io/geostatistics/): Basic workflow for a geostatistical analysis.
