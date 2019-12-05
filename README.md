@@ -1,4 +1,4 @@
-# myshinyapps
+# Shiny Apps
 Links and descriptions of shiny apps I've created
 
 * [Layer Boundary](https://maximiliano-01.shinyapps.io/layer_boundary/): Different methods can be used to find layer boundaries in a data sequence; unvariate and multivariate methods are available.
